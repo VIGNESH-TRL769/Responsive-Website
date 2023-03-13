@@ -38,10 +38,6 @@ body
 
 }
 
-#icon
-{
-    float:right;
-}
 .body img:hover
 {
     transform: scale(1.05);
